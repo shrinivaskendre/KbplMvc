@@ -1,0 +1,57 @@
+E:\RAM WORK\KbplMvc\KbplMvc\bin\KbplMvc.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\KbplMvc.pdb
+E:\RAM WORK\KbplMvc\KbplMvc\bin\Antlr3.Runtime.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.AspNet.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.Core.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OAuth.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OpenId.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\EntityFramework.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\Newtonsoft.Json.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Net.Http.Formatting.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Helpers.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Http.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Http.WebHost.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Mvc.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Optimization.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Razor.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.WebPages.Deployment.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.WebPages.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.WebPages.Razor.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\WebGrease.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\WebMatrix.Data.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\WebMatrix.WebData.dll
+E:\RAM WORK\KbplMvc\KbplMvc\bin\EntityFramework.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\Newtonsoft.Json.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Net.Http.Formatting.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Helpers.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Http.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Http.WebHost.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Mvc.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.Razor.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.WebPages.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.WebPages.Deployment.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\System.Web.WebPages.Razor.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\WebMatrix.Data.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\WebMatrix.WebData.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.AspNet.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.Core.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OAuth.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OpenId.xml
+E:\RAM WORK\KbplMvc\KbplMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\RAM WORK\KbplMvc\KbplMvc\obj\Debug\KbplMvc.csprojResolveAssemblyReference.cache
+E:\RAM WORK\KbplMvc\KbplMvc\obj\Debug\KbplMvc.dll
+E:\RAM WORK\KbplMvc\KbplMvc\obj\Debug\KbplMvc.pdb
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\bin\KbplMvc.dll
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\bin\KbplMvc.pdb
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\obj\Debug\KbplMvc.dll
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\obj\Debug\KbplMvc.pdb
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\obj\Debug\KbplMvc.csprojResolveAssemblyReference.cache
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\bin\Oracle.ManagedDataAccess.dll
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\obj\Debug\Interop.ORADCLib.dll
+E:\Ram Work\Daily Back\KbplMvc\KbplMvc\KbplMvc\obj\Debug\KbplMvc.csproj.ResolveComReference.cache
